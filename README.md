@@ -252,6 +252,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 *Database tools.*
 
+* [ccql](https://github.com/github/ccql) - Concurrent, multi server MySQL client.
 * [go-mysql](https://github.com/siddontang/go-mysql) - A go toolset to handle MySQL protocol and replication.
 * [go-mysql-elasticsearch](https://github.com/siddontang/go-mysql-elasticsearch) - Sync your MySQL data into Elasticsearch automatically.
 * [goose](https://github.com/steinbacher/goose) - Database migration tool. You can manage your database's evolution by creating incremental SQL or Go scripts.
